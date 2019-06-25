@@ -4,4 +4,13 @@ Emcaar stands for Embroidery card archive. This project tries to preserve inform
 
 I bought a death embroidery machine on ebay just for the fun of repairing it. And finally I couldn't bring any data to it, because of that proprietary technology. Luckily I have got a used card reader and a card. Unfortunately Something didn't work and I had to do some research and traffic analyzes to see what's going on.
 
-Now I want to store that knowledge for others working withsuch cards.
+Now I want to store that knowledge for others working with such cards.
+
+
+Card reader
+-----------
+Vikant Ultimate Box
+
+Cards
+-----
+Vikant The Ultimate Card I
