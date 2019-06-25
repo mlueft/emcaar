@@ -9,12 +9,10 @@ Now I want to store that knowledge for others working with such cards.
 # Documented Devices
 
 ## Card reader
------------
-Vikant Ultimate Box
+* Vikant Ultimate Box
 
 ## Cards
------
-Vikant The Ultimate Card I
+* Vikant The Ultimate Card I
 
 # Undocumented Devices
 * Amazing Box
