@@ -6,17 +6,17 @@ I bought a death embroidery machine on ebay just for the fun of repairing it. An
 
 Now I want to store that knowledge for others working with such cards.
 
-Documented Devices
+# Documented Devices
 
-Card reader
+## Card reader
 -----------
 Vikant Ultimate Box
 
-Cards
+## Cards
 -----
 Vikant The Ultimate Card I
 
-Undocumented Devices
+# Undocumented Devices
 * Amazing Box
 * Brother card reader
 
